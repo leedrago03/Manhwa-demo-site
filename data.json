@@ -1,0 +1,37 @@
+{
+    "manhwa": [
+      {
+        "title": "Solo Leveling",
+        "genre": "Action, Adventure"
+      },
+      {
+        "title": "Tower of God",
+        "genre": "Action, Fantasy"
+      },
+      {
+        "title": "Hardcore Leveling Warrior",
+        "genre": "Action, Comedy"
+      },
+      {
+        "title": "Noblesse",
+        "genre": "Supernatural, Action"
+      },
+      {
+        "title": "The God of High School",
+        "genre": "Martial Arts, Action"
+      },
+      {
+        "title": "Second Life Ranker",
+        "genre": "Adventure, Action"
+      },
+      {
+        "title": "Eleceed",
+        "genre": "Action, Fantasy"
+      },
+      {
+        "title": "The Advanced Player of the Tutorial Tower",
+        "genre": "Action, Fantasy"
+      }
+    ]
+  }
+  
