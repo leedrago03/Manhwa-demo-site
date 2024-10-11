@@ -1,7 +1,7 @@
 # Manhwa Demo Website
 
 ## Overview
-This project is a simple web application that displays a list of manhwa titles, their genres, and descriptions. The application is inspired by the article **"The 50 Best Fantasy Manhwa You Must Read Now."** 
+This project is a simple web application that displays a list of manhwa titles, their genres, and descriptions. The application is inspired by the article **"The Best Fantasy Manhwa You Must Read Now."** 
 
 To ensure high availability and scalability, the application leverages **Amazon EC2 Auto Scaling** and **Load Balancers**:
 - **Auto Scaling**: Automatically adjusts the number of EC2 instances based on traffic demands, ensuring that the application can handle varying loads while optimizing costs.
